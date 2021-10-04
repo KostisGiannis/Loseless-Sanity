@@ -12,12 +12,12 @@
 4. Animal Bikes
 5. Anti Gravity
 5. Advent Of Ascension 3
-AppleCore
-Applied Energistics
-Aqua Culture
-Applied Energistics 2
-Avaritia Furnace
-Avaritia
+6. AppleCore
+7. Applied Energistics
+8. Aqua Culture
+10. Applied Energistics 2
+11. Avaritia Furnace
+12. Avaritia
 Avaritia Add-ons
 AvaritiaIO
 Baubles
