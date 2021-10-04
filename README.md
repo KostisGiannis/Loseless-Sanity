@@ -75,7 +75,7 @@
 67. Journeymap
 68. LootBags
 69. Loot Overhaul
-70 .Lucky Block Mod
+70. Lucky Block Mod
 - Avaritia Lucky Block
 
 71. Lucraft Core
