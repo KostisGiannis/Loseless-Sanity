@@ -18,54 +18,54 @@
 10. Applied Energistics 2
 11. Avaritia Furnace
 12. Avaritia
-Avaritia Add-ons
-AvaritiaIO
-Baubles
-Better Portals
-Better Records
-BiblioCraft
-Biomes-O-Plenty
-Blood Magic
-Botania
-Bouncing Balls
-Brandons Core
-Carry On Mod
-Chameleon
-Chance Cubes
-Chickens
-Chisels And Bits
-CodeChickenLib
-CoFH Core
-CoFH World
-Computer Craft
-Controlling
-Cosmetic Armor Reworked
-Craft Tweaker
-Cucumber
-Cyclic
-Decocraft
-DFHeroes
-Dimensional Doors
-Draconic Additions
-Draconic Evolution
-Electroblobs Wizardry 
-Eat The Eggs
-EnderCore
-EnderIO
-Engender Mod
-Extra Utilities 2
-Eye Mod
-Fast Leaf Decay
-Forestry
-Forgelin
-Furniture
-Galacticraft Mod
-Guide API
-Hard Duplicator Mod !!!!!!!!!!!
-Hatchery
-Heroes Arrival
-HWYLA
-ICBM Classic
+13. Avaritia Add-ons
+14. AvaritiaIO
+15. Baubles
+16. Better Portals
+17. Better Records
+18. BiblioCraft
+19. Biomes-O-Plenty
+20. Blood Magic
+21. Botania
+22. Bouncing Balls
+23. Brandons Core
+24. Carry On Mod
+25. Chameleon
+26. Chance Cubes
+27. Chickens
+28. Chisels And Bits
+29. CodeChickenLib
+30. CoFH Core
+31. CoFH World
+32. Computer Craft
+33. Controlling
+34. Cosmetic Armor Reworked
+35. Craft Tweaker
+36. Cucumber
+37. Cyclic
+38. Decocraft
+39. DFHeroes
+40. Dimensional Doors
+41. Draconic Additions
+42. Draconic Evolution
+43. Electroblobs Wizardry 
+44. Eat The Eggs
+45. EnderCore
+46. EnderIO
+47. Engender Mod
+48. Extra Utilities 2
+49. Eye Mod
+50. Fast Leaf Decay
+51. Forestry
+52. Forgelin
+53. Furniture
+54. Galacticraft Mod
+55. Guide API
+56. Hard Duplicator Mod !!!!!!!!!!!
+57. Hatchery
+58. Heroes Arrival
+59. HWYLA
+60 .ICBM Classic
 iChun Utilities
 Immersive Engineering
 Infinity
@@ -77,6 +77,7 @@ LootBags
 Loot Overhaul
 Lucky Block Mod
 - Avaritia Lucky Block
+
 Lucraft Core
 Mahou Tsukai
 Mantle
