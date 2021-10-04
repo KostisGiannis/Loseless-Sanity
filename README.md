@@ -80,37 +80,37 @@
 
 71. Lucraft Core
 72. Mahou Tsukai
-Mantle
-MicDoodle Core
-MineTweaker and Recipe Maker
-More Avaritia Minecraft
-More Chickens
-Mystical Agriculture 
-Natura
-Natures Compass
-Not Enough IDs
-Optifine (Doesn't Crash DW)
-Ore Excavation
-ProjectE !!!!!!!!!!!!!
-PTRLib
-Redstone Flux
-Refined Avaritia
-Refined Storage
-Speedster Heroes
-Stalker Creepers
-Star Tech
-Storage Drawers
-Tinkers Construct
-Tech Guns
-The Fifth World
-Thermal Expansion 
-Thermal Foundation
-Twilight Forest 
-UniDict
-Vampirism
-WanionLib
+73. Mantle
+74. MicDoodle Core
+75. MineTweaker and Recipe Maker
+76. More Avaritia Minecraft
+77. More Chickens
+78. Mystical Agriculture 
+79. Natura
+80. Natures Compass
+81. Not Enough IDs
+82. Optifine (Doesn't Crash DW)
+83. Ore Excavation
+84. ProjectE !!!!!!!!!!!!!
+85. PTRLib
+86. Redstone Flux
+87. Refined Avaritia
+88. Refined Storage
+89. Speedster Heroes
+90. Stalker Creepers
+91. Star Tech
+92. Storage Drawers
+93. Tinkers Construct
+94. Tech Guns
+95. The Fifth World
+96. Thermal Expansion 
+97. Thermal Foundation
+98. Twilight Forest 
+99. UniDict
+100. Vampirism
+101. WanionLib
 
 # Anyhow, Here is the DropBox Link, have fun I guess (or don't)
 
-https://www.dropbox.com/s/213p0ldhco5t514/LoselessSanityMod.zip?dl=0 (Here you can inspect the modpack files)
-https://www.dropbox.com/s/213p0ldhco5t514/LoselessSanityMod.zip?dl=1 (Direct Download for the bored ones)
+1. https://www.dropbox.com/s/213p0ldhco5t514/LoselessSanityMod.zip?dl=0 (Here you can inspect the modpack files)
+2. https://www.dropbox.com/s/213p0ldhco5t514/LoselessSanityMod.zip?dl=1 (Direct Download for the bored ones)
