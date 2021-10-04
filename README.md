@@ -65,21 +65,21 @@
 57. Hatchery
 58. Heroes Arrival
 59. HWYLA
-60 .ICBM Classic
-iChun Utilities
-Immersive Engineering
-Infinity
-Inventory Pets
-Iron Chest
-Just Enough Items
-Journeymap
-LootBags
-Loot Overhaul
-Lucky Block Mod
+60. ICBM Classic
+61. iChun Utilities
+62. Immersive Engineering
+63. Infinity
+64. Inventory Pets
+65. Iron Chest
+66. Just Enough Items
+67. Journeymap
+68. LootBags
+69. Loot Overhaul
+70 .Lucky Block Mod
 - Avaritia Lucky Block
 
-Lucraft Core
-Mahou Tsukai
+71. Lucraft Core
+72. Mahou Tsukai
 Mantle
 MicDoodle Core
 MineTweaker and Recipe Maker
